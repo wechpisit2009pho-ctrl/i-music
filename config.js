@@ -1,7 +1,7 @@
 
 
 module.exports = {
-  TOKEN: "",
+  TOKEN: "MTUxMzExNTk0MzQ5NTEzOTMzOA.GTGKjd.-1W6IKb3DRhxfa5HTEwxICGleA-OpDQi4uUqFc",
   language: "en",
   ownerID: ["962994407651553302", ""], 
   mongodbUri : "mongodb+srv://shiva:shiva@musicbotyt.ouljywv.mongodb.net/?retryWrites=true&w=majority",
